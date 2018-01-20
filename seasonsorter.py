@@ -266,7 +266,8 @@ for tv in range (numtv) :
     
 print("\nHopefully should've worked...")        
 
-    
+filetv.close()
+os.remove("tvpath.txt")    
 
 
 '''
