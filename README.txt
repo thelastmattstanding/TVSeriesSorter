@@ -1,7 +1,7 @@
 Hey! If you're reading this, then I probably forced you to check it out or somehow you took an interest in my (incomplete) program!
 
 So this is a program to sort a tv series season-wise and renames your episodes to their corresponding titles.
-When they ask you to enter to enter path, enter the path of the folder containing your episodes. OTherwise, it won't work.
+When they ask you to enter to a path, enter the path of the folder containing your episodes. OTherwise, it won't work.
 It might take more time depending upon your internet connection, number of seasons and number of files in the folder. 
 The program ignores all files which don't have extensions pertaining to media.
 It does scan all subfolders in the folder as well to obtain all media files. 
